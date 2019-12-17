@@ -1,4 +1,4 @@
-# Eye-Tracking-Do-People-Read-Consent-Form-s-Study
+# Eye-Tracking-Do-People-Read-Consent-Forms-Study
 
 -Worked in a group of 4(including a graduate psychology student)
 -Sent forms to IRB 
